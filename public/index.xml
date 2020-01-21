@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sascha Credé</title>
+    <link>/</link>
+    <description>Recent content on Sascha Credé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>&amp;nbsp;Improve navigation system design In a fast-paced digital society, individuals increasingly rely on computerized location-based services to efficiently find their way through unfamiliar environments. However, scientific evidence is showing that despite digital navigation assistance helping people to find their way, it can cause wayfinders to become ``mindless&amp;rdquo; of the traversed environment, thus acquiring no or very little spatial knowledge in the long term. It is still not entirely clear what causes these impairments or how the design of navigation devices can be improved to counteract such undesirable effects.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Articles &amp; conference contributions Credé, S., Thrash, T., Hölscher, C., &amp;amp; Fabrikant, S. I. (2019). The advantage of globally visible landmarks for spatial learning. Journal of Environmental Psychology. doi: http://doi.org/10.1016/j.jenvp.2019.101369
+Thrash, T., Lanini-Maggi, S., Fabrikant, S. I., Bertel, S., Brügger, A., Credé, S., Do, C. T., Gartner, G., Huang, H., Münzer, S., &amp;amp; Richter, K.-F. (2019). The Future of Geographic Information Displays from GIScience, Cartographic, and Cognitive Science Perspectives (Vision Paper).</description>
+    </item>
+    
+    <item>
+      <title>Methods</title>
+      <link>/methods/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/methods/</guid>
+      <description>“Understanding people will help you build better interactive technologies and systems” (Ritter, Baxter &amp;amp; Churchill, 2014). This quote illustrates the basic components of user experience (UX) research. First, the interaction of a user with any kind of system, may it be digital or not. Second, understanding all the aspects of how people use a product: how they feel about it while they’re using it, how well they understand it, to which extant it serves the user’s purposes, and if it provides benefits in the entire context in which they are using it (Alben, 1996).</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Improve navigation system designIn a fast-paced digital society, individuals increasingly rely on computerized location-based services to efficiently find their way through unfamiliar environments. However, scientific evidence is showing that despite digital navigation assistance helping people to find their way, it can cause wayfinders to become ``mindless’‘of the traversed environment, thus acquiring no or very little spatial knowledge in the long term. It is still not entirely clear what causes these impairments or how the design of navigation devices can be improved to counteract such undesirable effects.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>&amp;nbsp;Improve navigation system design In a fast-paced digital society, individuals increasingly rely on computerized location-based services to efficiently find their way through unfamiliar environments. However, scientific evidence is showing that despite digital navigation assistance helping people to find their way, it can cause wayfinders to become ``mindless&amp;rdquo; of the traversed environment, thus acquiring no or very little spatial knowledge in the long term. It is still not entirely clear what causes these impairments or how the design of navigation devices can be improved to counteract such undesirable effects.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects_old/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects_old/</guid>
+      <description>&amp;nbsp;Virtual Reality as Research Tool  
+&amp;nbsp;Improve Navigation System Design In a fast-paced digital society, individuals increasingly rely on computerized location-based services to efficiently find their way through unfamiliar environments. However, scientific evidence is increasingly showing that despite digital navigation assistance helping people to find their way, it can cause wayfinders to become ``mindless&amp;rdquo; of the traversed environment, thus acquiring no or very little spatial knowledge in the long term.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am PhD student at the University Zurich, studying geographic Information Visualization. I am passionate about behavioral research, data visualization, statistics, and designing interactive applications that deliver a nice UX and that are easy to learn. These web pages are my personal blog about everything, but also geovisualization, UX psychology, and statistical programming with R.
+This browser does not support PDFs. Please download the PDF to view it: Download PDF.</description>
+    </item>
+    
+  </channel>
+</rss>
