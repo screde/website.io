@@ -64,7 +64,7 @@ Credé, S., & Fabrikant, S. I. (2017, September). Let’s Put the Skyscrapers on
 
 <img style="float:left;" src="figures/expectations_wide.png" width="140"></img style>
 
-<h2>Designing architecture for the wayfinders' expactations</h2></br>
+<h2>&nbsp;Designing architecture for the wayfinders' expactations</h2></br>
 Expectations are fundamental to our daily behavior. For example, we find it easier to remember an event if it follows a well known script to which we are accustomed. We can say, our expectations affect our experience and the way we understand the world. In UX research we strive to understand and use these expectations to improve the usability of products. However, scientific insights about the role of expectations are scarce, especially when it comes to real world navigation. Expectations during real world navigation is crucial, as people often get lost during the search for destinations in complex indoor structures. How does the usability of a hospital look like?
 
 If we know what people expect of a buildings structure and understand the factors that shape these expectations, we can use this knowledge to improve building design. In my Master's, I studied  peoples' expectations of a building's geometry beyond the current line of sight. Do such expectations rely on configurational variables (e.g., symmetry, good form) of the currently perceived building part? By having participants watch virtual building walks we systematically examined how configurational variables influenced expectations about the hallway structure of unknown building parts. The results of this study demonstrate that during indoor navigation, people use backgreound knowledge and tend to expect closed hallway structures and symmetrical layouts. Insights of peoples' spatial expectation should be considered in the design of building layouts or when planning emergency exits.
@@ -129,6 +129,17 @@ Who am I? I am not so sure who I am, but I like the person on my profile picture
 Sascha Credé (2012). Das Facebook-Profilbild als soziales Dokument – Eine rekonstruktive Analyse. Albert-Ludwigs-Universität Freiburg. [B.A.](figures/Credé_BA_final.pdf)
 </span>
 </p>
+---
+</br></br></br></br>
 
+
+
+<h3>credits</h3>
+
+icons by  <br/>
+[Creative Stall](https://thenounproject.com/creativestall/) <br/>
+[priyanka](https://thenounproject.com/creativepriyanka/) <br/>
+[lokamariella]( https://thenounproject.com/lokamariella/) <br/>
+[Becris](https://thenounproject.com/Becris/) <br/>
 
 
